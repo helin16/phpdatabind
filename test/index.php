@@ -1,4 +1,5 @@
 <?php 
+require_once dirname(__FILE__) . DIRECTORY_SEPARATOR . '..' . DIRECTORY_SEPARATOR . 'main' . DIRECTORY_SEPARATOR . 'Autoloader.php';
 /**
  * this is the autoloader for the main
  * 
